@@ -4,3 +4,4 @@ echo "Para practicar tareas sencillas en Jenkins, sin build y sin test, y sin de
 echo "Podremos automatizar, manual, hook con github (push)"
 echo "fHola iznateVamosff"
 echo "son las 14.35"
+echo "nos vamos casi ya"
